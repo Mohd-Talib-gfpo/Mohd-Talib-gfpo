@@ -38,26 +38,9 @@ Feel free to reach out to me via email or phone. I'm always open to discussing n
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
-## 🛠️ My Projects
-### [Project 1: E-commerce Platform](https://github.com/Mohd-Talib-gfpo/project1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohd-Talib-gfpo&repo=project1&theme=radical)
-
-A full-featured e-commerce platform built with the MERN stack (MongoDB, Express, React, Node.js). It includes user authentication, product management, and payment processing.
-
-### [Project 2: Blog Website](https://github.com/Mohd-Talib-gfpo/project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Mohd-Talib-gfpo&repo=project2&theme=radical)
-
-A responsive blog website developed using Django and React. Features include user registration, post creation, and commenting system.
-
-## 📊 GitHub Stats
-![Mohd-Talib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Talib-gfpo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Talib-gfpo&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mohd-Talib-gfpo&theme=dracula&no-bg=true&margin-w=4)
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohd-talib-a04a05143/)](https://www.linkedin.com/in/mohd-talib-a04a05143/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohd-Talib-gfpo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
