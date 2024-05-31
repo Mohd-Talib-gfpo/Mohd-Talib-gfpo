@@ -7,7 +7,12 @@ I’m a Full Stack Developer with a passion for building scalable web applicatio
 
 - 🌱 I’m currently diving deep into advanced concepts in React, Java, Spring Boot, and MySQL deployments with AWS and Docker.
 - 💞️ I’m looking to collaborate on innovative projects that solve real-world problems and contribute to open-source communities.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | Contact No.- +91 8423154500
+- ## 📫 How to Reach Me
+
+Feel free to reach out to me via email or phone. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+📧 **Email**: [mohd.talib@example.com](mailto:mohd.talib@example.com)  
+📞 **Phone**: [+91 8423154500](tel:+918423154500)  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and am a big fan of sci-fi movies!
 
