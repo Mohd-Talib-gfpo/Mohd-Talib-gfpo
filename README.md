@@ -10,7 +10,7 @@ I’m a Full Stack Developer with a passion for building scalable web applicatio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and am a big fan of sci-fi movies!
 
-- - ## 📫 How to Reach Me
+- # 📫 How to Reach Me
 
 Feel free to reach out to me via email or phone. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
