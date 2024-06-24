@@ -5,7 +5,7 @@
 ## 👀 About Me
 I’m a Full Stack Developer with a passion for building scalable web applications and exploring new technologies. With experience in both frontend and backend development, I strive to deliver efficient and robust solutions.
 
-- 🌱 I’m currently diving deep into advanced concepts in React, Java, Spring Boot, and MySQL deployments with AWS and Docker.
+- 🌱 I’m currently diving deep into React, Java, Spring Boot, and MySQL deployments.
 - 💞️ I’m looking to collaborate on innovative projects that solve real-world problems and contribute to open-source communities.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and am a big fan of sci-fi movies!
